@@ -1,0 +1,11 @@
+body{margin:0;background:#07101d;color:#fff;font-family:Arial;display:flex}
+.sidebar{width:220px;background:#0c1525;height:100vh;padding:20px}
+.sidebar h1{color:#56a8ff}
+.sidebar button,.topbar button,.composer button{width:100%;background:#102340;color:white;border:none;padding:12px;border-radius:14px;margin:8px 0}
+.feed{flex:1;padding:30px}
+.topbar{display:flex;gap:10px}
+.topbar input,textarea,.composer input{width:100%;background:#0d1a2d;border:1px solid #1c3d67;color:white;padding:12px;border-radius:12px}
+.composer,.post{background:#0d1625;padding:20px;border-radius:22px;margin-top:20px}
+.post img{width:100%;border-radius:16px}
+.verified{color:#56a8ff}
+.music-history{margin:10px 0;background:#12284a;padding:12px;border-radius:12px}

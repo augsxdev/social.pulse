@@ -1,0 +1,8 @@
+
+// Admin routes (scaffold)
+GET /admin/dashboard
+GET /admin/users
+POST /admin/verify-user
+POST /admin/remove-verification
+POST /admin/ban-user
+POST /admin/make-admin
